@@ -1,0 +1,143 @@
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\App.g.i.cs
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\App.g.cs
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\MainPage.g.i.cs
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\MainPage.g.cs
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\XamlTypeInfo.g.cs
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\XamlSaveStateFile.xml
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\App.xaml
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\MainPage.xaml
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\App.xbf
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\MainPage.xbf
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\App.xbf
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\MainPage.xbf
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\MoneyNote.xr.xml
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\MoneyNote.exe
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\MoneyNote.pdb
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\resources.pri
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\AppxManifest.xml
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\MoneyNote.build.appxrecipe
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\MoneyNote.exe
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\MoneyNote.pdb
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\priconfig.xml
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\priconfig.xml.intermediate
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\layout.resfiles
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\layout.resfiles.intermediate
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\resources.resfiles
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\resources.resfiles.intermediate
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\pri.resfiles
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\pri.resfiles.intermediate
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\qualifiers.txt
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\qualifiers.txt.intermediate
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\ProjectArchitectures.txt
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\NewNote.xbf
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\NewNote.g.i.cs
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\NewNote.g.cs
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\NewNote.xaml
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\NewNote.xbf
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\SeeHistory.xbf
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\SeeHistory.g.i.cs
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\SeeHistory.g.cs
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\SeeHistory.xaml
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\SeeHistory.xbf
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\NoteDetails.xbf
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\NoteDetails.g.i.cs
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\NoteDetails.g.cs
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\NoteDetails.xaml
+d:\documentos\visual studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\NoteDetails.xbf
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\App.xbf
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\MainPage.xbf
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\NewNote.xbf
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\NoteDetails.xbf
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\SeeHistory.xbf
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\MoneyNote.xr.xml
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\MoneyNote.exe
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\MoneyNote.pdb
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\resources.pri
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\AppxManifest.xml
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\bin\Debug\MoneyNote.build.appxrecipe
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\App.g.i.cs
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\App.g.cs
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\MainPage.g.i.cs
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\MainPage.g.cs
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\NewNote.g.i.cs
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\NewNote.g.cs
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\NoteDetails.g.i.cs
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\NoteDetails.g.cs
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\SeeHistory.g.i.cs
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\SeeHistory.g.cs
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\XamlTypeInfo.g.cs
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\App.xaml
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\MainPage.xaml
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\NewNote.xaml
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\NoteDetails.xaml
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\SeeHistory.xaml
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\App.xbf
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\MainPage.xbf
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\NewNote.xbf
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\NoteDetails.xbf
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\SeeHistory.xbf
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\XamlSaveStateFile.xml
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\MoneyNote.exe
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\MoneyNote.pdb
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\priconfig.xml
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\priconfig.xml.intermediate
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\layout.resfiles
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\layout.resfiles.intermediate
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\resources.resfiles
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\resources.resfiles.intermediate
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\pri.resfiles
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\pri.resfiles.intermediate
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\qualifiers.txt
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\qualifiers.txt.intermediate
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Files\Documentos\Visual Studio 2013\Projects\MoneyNote\MoneyNote\obj\Debug\ProjectArchitectures.txt
+\\psf\Home\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\MoneyNote.exe
+\\psf\Home\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\MoneyNote.pdb
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\MoneyNote.exe
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\MoneyNote.pdb
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\bin\Debug\App.xbf
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\bin\Debug\MainPage.xbf
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\bin\Debug\NewNote.xbf
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\bin\Debug\NoteDetails.xbf
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\bin\Debug\SeeHistory.xbf
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\bin\Debug\MoneyNote.xr.xml
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\bin\Debug\MoneyNote.exe
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\bin\Debug\MoneyNote.pdb
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\bin\Debug\resources.pri
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\bin\Debug\AppxManifest.xml
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\bin\Debug\MoneyNote.build.appxrecipe
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\App.g.i.cs
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\App.g.cs
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\MainPage.g.i.cs
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\MainPage.g.cs
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\NewNote.g.i.cs
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\NewNote.g.cs
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\NoteDetails.g.i.cs
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\NoteDetails.g.cs
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\SeeHistory.g.i.cs
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\SeeHistory.g.cs
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\App.xaml
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\MainPage.xaml
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\NewNote.xaml
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\NoteDetails.xaml
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\SeeHistory.xaml
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\App.xbf
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\MainPage.xbf
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\NewNote.xbf
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\NoteDetails.xbf
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\SeeHistory.xbf
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\priconfig.xml
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\priconfig.xml.intermediate
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\layout.resfiles
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\layout.resfiles.intermediate
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\resources.resfiles
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\resources.resfiles.intermediate
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\pri.resfiles
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\pri.resfiles.intermediate
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\qualifiers.txt
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Iago Aleksander\Documents\Visual Studio 2015\Projects\MoneyNote\MoneyNote\obj\Debug\ProjectArchitectures.txt
